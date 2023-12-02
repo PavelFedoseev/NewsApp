@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="windowTextColor">@color/white</color>
+    <color name="windowBackground">@color/grey_900</color>
+    <color name="windowScrollBackground">@color/grey_1000</color>
+
+    <color name="itemDashboardBackground">@color/grey_900</color>
+    <color name="itemDashboardDivider">@color/grey_800</color>
+    <color name="itemDashboardTitleText">@color/white</color>
+    <color name="itemDashboardText">@color/grey_400</color>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="countrysCodes">
+        <item>ru</item>
+        <item>gb</item>
+    </string-array>
+
+
+    <integer-array name="countrysIcons">
+        <item>@drawable/ic_russia</item>
+        <item>@drawable/ic_united_kingdom</item>
+    </integer-array>
+
+</resources>

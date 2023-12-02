@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Новости</string>
+    <string name="cancel">Отмена</string>
+    <string name="ok">ОК</string>
+    <string name="category_business">Бизнес</string>
+    <string name="category_entertainment">Развлечения</string>
+    <string name="category_health">Здоровье</string>
+    <string name="category_science">Наука</string>
+    <string name="category_sports">Спорт</string>
+    <string name="category_technology">Технологии</string>
+    <string name="news">Новости</string>
+    <string name="news_dialog_info">Перейти по ссылке к новости.</string>
+    <string name="goto_website">Перейти на вебсайт</string>
+    <string name="search_in_everything">Поиск…</string>
+    <string name="search">Поиск</string>
+    <string name="choose_language">Выбрать язык</string>
+    <string-array name="countries">
+        <item>Россия</item>
+        <item>Великобритания</item>
+    </string-array>
+</resources>
